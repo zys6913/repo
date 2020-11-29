@@ -1,8 +1,9 @@
-Origin: Undecimus
-Label: Undecimus
+Origin: zys6913 repo
+Label: zys6913 repo
 Suite: stable
-Version: 0.1
+Version: 1.0
+codename:zys6913
 Codename: Undecimus
 Architectures: iphoneos-arm
 Components: main
-Description: Unc0ver Bundled
+Description: tweaks&apps
