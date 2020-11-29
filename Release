@@ -1,9 +1,8 @@
 Origin: zys6913 repo
 Label: zys6913 repo
 Suite: stable
-Version: 1.0
-codename:zys6913
-Codename: Undecimus
+Version: 0.1
+Codename:zys6913 repo
 Architectures: iphoneos-arm
 Components: main
 Description: tweaks&apps
